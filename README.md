@@ -310,7 +310,7 @@ A função explora todas as combinações possíveis de itens (árvore de decis�
 
 ## Vídeo de apresentação
 
-**Link do vídeo:** (adicionar o link do Google Drive ou YouTube não listado)
+**Link do vídeo:** (https://youtu.be/DV0k7XH3tg0))
 
 ## Licença
 
